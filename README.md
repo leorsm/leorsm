@@ -12,7 +12,7 @@
 
 ## 🙋 About Me
 
-I'm a career changer who made the leap into software engineering after years in the restaurant industry. That path taught me discipline, resilience, and the ability to perform under pressure — skills I now bring to every line of code I write.
+I'm a career changer who made the leap into software engineering nine years in the restaurant industry. That path taught me discipline, resilience, and the ability to perform under pressure — skills I now bring to every line of code I write.
 
 I discovered programming through **CS50** (Harvard's intro to Computer Science), which sparked a genuine passion for understanding how things work at a low level. I then joined **42**, one of the most demanding coding schools in the world, where I've been building strong foundations in C and systems programming.
 
