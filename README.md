@@ -49,8 +49,9 @@ I thrive in environments that challenge me, and I'm not afraid to start from zer
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`libft`](https://github.com/leorsm/libft) | Custom C standard library rebuilt from scratch | ✅ Validated |
-| `ft_printf` | Reimplementation of printf with variadic functions | 🔄 In progress |
-| `get_next_line` | Line-by-line file reader using file descriptors | ⏳ Up next |
+| `ft_printf` | Reimplementation of printf with variadic functions | ✅ Validated |
+| `get_next_line` | Line-by-line file reader using file descriptors | ✅ Validated |
+| `push_swap` | Sorting algorithm with a two-stack system | 🔄 In progress |
 
 ---
 
