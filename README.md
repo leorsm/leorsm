@@ -67,6 +67,6 @@ Open to **internship opportunities** and always happy to connect.
 
 <div align="center">
 
-📍 France &nbsp;|&nbsp; 🏫 42 &nbsp;|&nbsp; 📬 [leratsam@student.42.fr](mailto:leratsam@student.42.fr)
+📍 France &nbsp;|&nbsp; 🏫 42 &nbsp;|&nbsp; 📬 [leratsam@learner.42.tech](mailto:leratsam@learner.42.tech)
 
 </div>
