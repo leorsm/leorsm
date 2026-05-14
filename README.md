@@ -12,7 +12,7 @@
 
 ## 🙋 About Me
 
-I'm a career changer who made the leap into software engineering after nine years in the restaurant industry. That path taught me discipline, resilience, and the ability to perform under pressure — skills I now bring to every line of code I write.
+I'm a career changer who made the leap into software engineering after years in the restaurant industry. That path taught me discipline, resilience, and the ability to perform under pressure — skills I now bring to every line of code I write.
 
 I discovered programming through **CS50** (Harvard's intro to Computer Science), which sparked a genuine passion for understanding how things work at a low level. I then joined **42**, one of the most demanding coding schools in the world, where I've been building strong foundations in C and systems programming.
 
@@ -26,6 +26,7 @@ I thrive in environments that challenge me, and I'm not afraid to start from zer
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Coming soon:**
 
@@ -49,9 +50,10 @@ I thrive in environments that challenge me, and I'm not afraid to start from zer
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`libft`](https://github.com/leorsm/libft) | Custom C standard library rebuilt from scratch | ✅ Validated |
-| `ft_printf` | Reimplementation of printf with variadic functions | ✅ Validated |
-| `get_next_line` | Line-by-line file reader using file descriptors | ✅ Validated |
-| `push_swap` | Sorting algorithm with a two-stack system | 🔄 In progress |
+| [`ft_printf`](https://github.com/leorsm/ft_printf) | Reimplementation of printf with variadic functions | ✅ Validated |
+| [`get_next_line`](https://github.com/leorsm/get_next_line) | Line-by-line file reader using file descriptors | ✅ Validated |
+| [`push_swap`](https://github.com/leorsm/push_swap) | Stack sorting with 4 algorithms — group project w/ pavongsal | ✅ Validated |
+| [`born2beroot`](https://github.com/leorsm/born2beroot) | Linux server setup and system administration | ✅ Validated |
 
 ---
 
@@ -65,6 +67,6 @@ Open to **internship opportunities** and always happy to connect.
 
 <div align="center">
 
-📍 France &nbsp;|&nbsp; 🏫 42 &nbsp;|&nbsp; 📬 [leo.ratsamy@learner.42.tech](mailto:leo.ratsamy@learner.42.tech)
+📍 France &nbsp;|&nbsp; 🏫 42 &nbsp;|&nbsp; 📬 [leratsam@student.42.fr](mailto:leratsam@student.42.fr)
 
 </div>
