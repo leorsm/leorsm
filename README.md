@@ -54,6 +54,7 @@ I thrive in environments that challenge me, and I'm not afraid to start from zer
 | [`get_next_line`](https://github.com/leorsm/get_next_line) | Line-by-line file reader using file descriptors | ✅ Validated |
 | [`push_swap`](https://github.com/leorsm/push_swap) | Stack sorting with 4 algorithms — group project w/ pavongsal | ✅ Validated |
 | [`born2beroot`](https://github.com/leorsm/born2beroot) | Linux server setup and system administration | ✅ Validated |
+| [`netpractice`](https://github.com/leorsm/netpractice) | TCP/IP network configuration — 10 levels | ✅ Validated |
 
 ---
 
